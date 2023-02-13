@@ -264,7 +264,7 @@ main{
 
 @media (max-width: 920px){
     .text__information-cover{
-        width: 1024px;
+        width: 100px;
     }
 
     .media__cover{
