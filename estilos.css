@@ -262,9 +262,9 @@ main{
     }
 }
 
-@media (max-width: 920px){
+@media (max-width: 1024px){
     .text__information-cover{
-        width: 1000px;
+        width: 20px;
     }
 
     .media__cover{
