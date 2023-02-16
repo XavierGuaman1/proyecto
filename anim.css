@@ -15,15 +15,15 @@ h1{
 }
 
 .text1{
-animation: bounce1 .5s alternate infinite ease-in;
+animation: bounce1 .8s alternate infinite ease-in;
 }
 
 .text2{
-    animation: bounce2 .5s alternate infinite ease-in;
+    animation: bounce2 .8s alternate infinite ease-in;
  }
 
 .text3{
-     animation: bounce3 .5s alternate infinite ease-in;
+     animation: bounce3 .8s alternate infinite ease-in;
 }
 
 
